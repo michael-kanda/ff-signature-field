@@ -3,6 +3,8 @@
 Plugin Name: FF Signature Field
 Description: Digitales Unterschrift-Feld fuer Fluent Forms.
 Version: 2.0.0
+* Author: Michael Kanda
+* Author URI: https://designare.at
 */
 if (!defined('ABSPATH')) exit;
 
